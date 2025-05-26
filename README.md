@@ -31,7 +31,7 @@ npm -v
 
 To get a copy of this project on your local machine, run the following command in your terminal
 ```bash
-https://github.com/eddbdea/Graffino-assignment.git
+git clone https://github.com/eddbdea/Graffino-assignment.git
 ```
 After that navigate into the project directory and open it
 ```bash
