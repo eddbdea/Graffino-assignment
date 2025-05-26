@@ -6,7 +6,7 @@ const rl = readline.createInterface({ input, output });
 
 async function main() {
     console.log("Press 1 - Add new habit");
-    console.log("Press 2 - Show habits list");
+    console.log("Press 2 - Show my habit list");
     console.log("Press 3 - Exit tracker")
     while (true) {
         const answer = await rl.question("\nMake your choice: ");
