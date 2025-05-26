@@ -35,5 +35,5 @@ git clone https://github.com/eddbdea/Graffino-assignment.git
 ```
 After that navigate into the project directory and open it
 ```bash
-cd -project directory-
+cd /your/project/directory
 code .
