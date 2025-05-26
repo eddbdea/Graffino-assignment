@@ -26,3 +26,14 @@ Open your terminal or command prompt and run:
 ```bash
 node -v
 npm -v
+```
+# Clone Repository
+
+To get a copy of this project on your local machine, run the following command in your terminal
+```bash
+https://github.com/eddbdea/Graffino-assignment.git
+```
+After that navigate into the project directory and open it
+```bash
+cd -project directory-
+code .
