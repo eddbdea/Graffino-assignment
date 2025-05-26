@@ -1,7 +1,7 @@
 const readline = require('node:readline/promises');
 const { stdin: input, stdout: output } = require('node:process');
-const habitTracker = [];
 
+const habitTracker = [];
 const rl = readline.createInterface({ input, output });
 
 async function main() {
